@@ -1,0 +1,63 @@
+body {
+	background-image: url("https://mrnro.com/img/st_img/BLOG/storm-boating.jpg");
+	background=size: cover;
+}
+
+.test{
+	background-color: red;
+}
+#firstpoint{
+color: white;
+text-decoration: underline;
+}
+#secondpoint{
+color: blue;
+text-decoration: overline;
+}
+#thirdpoint{
+color: green;
+}
+#pesnya {
+	background-color: orange;
+}
+.list .rest {
+	color: yellow;
+}
+
+.list2 li:nth-child(5) {
+	color: brown;
+}
+
+.list2 li:last-child{
+	color: pink;
+}
+
+.list3 li:nth-child(odd) {
+	color: pink;
+}
+
+div p {
+	background-color: purple;
+}
+h1 {
+	color: blue;
+	font-size: 15px;
+	height: 200px;
+	width: 200px;
+	background-color: purple;
+	border: 20px solid white;
+}
+.descr:hover {
+	background-image: url("https://pivdenukraine.com.ua/wp-content/uploads/2020/12/iStock-486274678_d_850.jpg");
+}
+.list{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h2{
+  text-transform:uppercase;
+  font-size:72px;
+  font-family:'Verdana';
+  padding:30px;
+}
